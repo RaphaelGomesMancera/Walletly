@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+dist/
+*.apk
+*.aab
+.DS_Store
+# google-services.json NÃO está ignorado de propósito: o EAS Build precisa dele.
