@@ -12,7 +12,20 @@
     "plugins": [
       "@react-native-firebase/app",
       "@react-native-firebase/auth",
-      ["expo-build-properties", { "ios": { "useFrameworks": "static" } }]
-    ]
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "622f2e1d-abde-4d9f-9420-005e9bfb41c9"
+      }
+    },
+    "owner": "raphaelmancera010"
   }
 }
