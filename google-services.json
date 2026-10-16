@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965898654122",
+    "project_id": "walletly-82484",
+    "storage_bucket": "walletly-82484.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965898654122:android:63ef087e5f458d14c05bd3",
+        "android_client_info": {
+          "package_name": "com.walletly.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNjalfjIaY32q-1a8oo9Nsq9nEWryDFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
